@@ -1,2 +1,7 @@
-m_EditorVersion: 2020.3.1f1c1
-m_EditorVersionWithRevision: 2020.3.1f1c1 (3e9f4b065a9d)
+<<<<<<< HEAD
+m_EditorVersion: 2020.3.36f1c1
+m_EditorVersionWithRevision: 2020.3.36f1c1 (f1b5774ca487)
+=======
+m_EditorVersion: 2020.2.0f1c1
+m_EditorVersionWithRevision: 2020.2.0f1c1 (f2fe8b73675a)
+>>>>>>> parent of 5bf0f35 (add movement animation)

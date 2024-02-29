@@ -10,6 +10,7 @@ namespace CombatDesigner
     /// A base class of the character's control logic
     /// </summary>
     [RequireComponent(typeof(CharacterController))]
+    [RequireComponent(typeof(AudioSource))]
     [RequireComponent(typeof(ActorModel))]
     public abstract class ActorController : MonoBehaviour
     {
